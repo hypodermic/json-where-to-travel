@@ -5,9 +5,7 @@
       "type": "Feature",
       "properties": {
         "name":'Rome',
-        "dailyPrice":78.93,
-        "climate":[46,	48,	54,	57,	70,	73,	79,	75,	72,	64,	55,	50],
-        "tstyle":['Shopping', 'Dining', 'Archeological', 'Museums']
+        
       },
       "geometry": {
         "type": "Point",
@@ -21,9 +19,7 @@
       "type": "Feature",
       "properties": {
         "name":'New York City',
-        "dailyPrice":99.60,
-        "climate":[36,	36,	39,	52,	61,	72,	77,	75,	68,	57,	48,	48],
-        "tstyle":['Beach', 'Shopping', 'Dining', 'Museums']
+       
       },
       "geometry": {
         "type": "Point",
@@ -37,9 +33,7 @@
       "type": "Feature",
       "properties": {
         "name":'Lima',
-        "dailyPrice":32.71,
-        "climate":[73,	75,	73,	72,	68,	66,	64,	63,	64,	66,	68,	72],
-        "tstyle":['Beach', 'Dining', 'Archeological', 'Museums', 'Adventure']
+       
       },
       "geometry": {
         "type": "Point",
@@ -53,9 +47,7 @@
       "type": "Feature",
       "properties": {
         "name":'Sydney',
-        "dailyPrice":73.45,
-        "climate":[73,	73,	72,	66,	61,	57,	55,	57,	61,	64,	68,	72],
-        "tstyle":['Beach', 'Shopping', 'Dining', 'Adventure']
+       
       },
       "geometry": {
         "type": "Point",
