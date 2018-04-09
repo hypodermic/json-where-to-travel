@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name":'Rome',
+        "dailyPrice":78.93,
+        "climate":[46,	48,	54,	57,	70,	73,	79,	75,	72,	64,	55,	50],
+        "tstyle":['Shopping', 'Dining', 'Archeological', 'Museums']
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.48870849609375,
+          41.89001042401827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name":'New York City',
+        "dailyPrice":99.60,
+        "climate":[36,	36,	39,	52,	61,	72,	77,	75,	68,	57,	48,	48],
+        "tstyle":['Beach', 'Shopping', 'Dining', 'Museums']
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97506713867186,
+          40.73164913017892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name":'Lima',
+        "dailyPrice":32.71,
+        "climate":[73,	75,	73,	72,	68,	66,	64,	63,	64,	66,	68,	72],
+        "tstyle":['Beach', 'Dining', 'Archeological', 'Museums', 'Adventure']
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03544616699219,
+          -12.062823517087029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name":'Sydney',
+        "dailyPrice":73.45,
+        "climate":[73,	73,	72,	66,	61,	57,	55,	57,	61,	64,	68,	72],
+        "tstyle":['Beach', 'Shopping', 'Dining', 'Adventure']
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2154769897461,
+          -33.85559109516039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.55,
+          -30.86667
+        ]
+      },
+      "properties": {
+        "mass": "1440",
+        "name": "Aguila Blanca",
+        "reclong": "-64.550000",
+        "geolocation_address": null,
+        "geolocation_zip": null,
+        "year": "1920-01-01T00:00:00.000",
+        "geolocation_state": null,
+        "fall": "Fell",
+        "id": "417",
+        "recclass": "L",
+        "reclat": "-30.866670",
+        "geolocation_city": null,
+        "nametype": "Valid"
+      }
+    }
+  ],
+   "crs": {
+  "type": "link",
+  "properties": {
+    "href": "http://spatialreference.org/ref/epsg/26912/esriwkt/",
+    "type": "esriwkt"
+    }
+  }
+}
