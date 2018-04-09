@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "name":'Rome',
-        
+        "dailyPrice":80,
       },
       "geometry": {
         "type": "Point",
@@ -19,7 +19,7 @@
       "type": "Feature",
       "properties": {
         "name":'New York City',
-       
+       "dailyPrice":80,
       },
       "geometry": {
         "type": "Point",
@@ -33,7 +33,7 @@
       "type": "Feature",
       "properties": {
         "name":'Lima',
-       
+       "dailyPrice":80,
       },
       "geometry": {
         "type": "Point",
@@ -47,7 +47,7 @@
       "type": "Feature",
       "properties": {
         "name":'Sydney',
-       
+       "dailyPrice":80,
       },
       "geometry": {
         "type": "Point",
